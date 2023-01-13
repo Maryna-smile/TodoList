@@ -2,8 +2,7 @@ import React from 'react';
 import { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { addTodo } from 'store/todoSlice';
-// import { nanoid } from 'nanoid';
-// import css from './App.module.css';
+
 import TodoList from './TodoList/TodoList';
 import InputField from './InputField/InputField';
 
