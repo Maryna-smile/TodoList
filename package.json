@@ -2,7 +2,7 @@
   "name": "quick-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Maryna-smile.github.io/quick-template/",
+  "homepage": "https://Maryna-smile.github.io/TodoList/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
     "@testing-library/jest-dom": "^5.16.3",
