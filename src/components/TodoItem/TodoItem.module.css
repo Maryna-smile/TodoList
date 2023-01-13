@@ -1,0 +1,12 @@
+li {
+    display: flex;
+    gap: 20px;
+}
+input:checked + span {
+    text-decoration: line-through;
+}
+
+.cross {
+    color: red;
+    cursor: pointer;
+}
